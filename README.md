@@ -1,7 +1,7 @@
 ![MasterHead]( https://rishavanand.github.io/static/images/greetings.gif) 
 <h1 align="center">Hi, I'm Pabin Poudel</h1>
 <h3 align="center">A passionate IT student from Nepal</h3>
-# 💫 About Me:
+# 💫 About Me: <br>
 Hi, I'm Pabin, a passionate learner of graphic design with experience using Adobe Photoshop. <br> My skills in Adobe Photoshop are a cornerstone of my design practice<br>I am enthusiastic IT student.<br>
 
 
@@ -21,4 +21,4 @@ Hi, I'm Pabin, a passionate learner of graphic design with experience using Adob
 ---
 [![](https://visitcount.itsvg.in/api?id=pabinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
